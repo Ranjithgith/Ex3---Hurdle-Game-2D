@@ -1,4 +1,4 @@
-# Ex3---Hurdle-Game-2D
+# Ex6---Hurdle-Game-2D
 
 ## AIM:
 To develop a 2D game using C# program in Unity.
